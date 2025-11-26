@@ -1,4 +1,4 @@
- # genfocus-api
+ # GenFocus-API
 
 > API em django para cadastro, consulta, atualização e exclusão de usuários.
 
