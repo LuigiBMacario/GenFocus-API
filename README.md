@@ -1,4 +1,4 @@
- # CASE BACK-END
+ # genfocus-api
 
 > API em django para cadastro, consulta, atualização e exclusão de usuários.
 
