@@ -37,7 +37,7 @@ Cada pessoa cadastrada na API possui os seguintes atributos:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/LuigiBMacario/caseBackEnd.git
+   git clone https://github.com/LuigiBMacario/GenFocus-API.git
 2. Acesse o diretório do projeto:
    ```bash
    cd caseBackEnd
