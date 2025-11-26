@@ -11,8 +11,8 @@
 - [Licença](#licença)
 
 ## Sobre o Projeto
-    Essa API foi desenvolvida como parte de um projeto para uma empresa de tecnologia, com o objectivo de atender às necessidades de um cliente que busca uma apliicação web para o cadastro e gestão de informações básicas de seus funcionarios. A GenFocus, permite cadastrar, listar, atualizar e excluir registros de pessoas.
-### Entidade Pessoa
+    API RESTful desenvolvida para gestão corporativa de recursos humanos, focada em escalabilidade e organização de dados.
+### Entidade "Pessoa"
 Cada pessoa cadastrada na API possui os seguintes atributos:
 - Nome Completo
 - Data de nascimento
@@ -46,7 +46,7 @@ Cada pessoa cadastrada na API possui os seguintes atributos:
     python3 -m venv venv
     source venv/bin/activate # Para sistemas Unix
     venv\Scripts\activate # Para Windows
-    # Caso não tenha o python instalado, será necessario efetuar a sua instalação. Você instalar o python pela Microsoft Store ou pelo site oficial: https://www.python.org/downloads/
+    # Será necessario ter o python instalado. Você pode instalar o python pela Microsoft Store ou pelo site oficial: https://www.python.org/downloads/
 4. Instale as dependências:
    ```bash 
    pip install -r requirements.txt
